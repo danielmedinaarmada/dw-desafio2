@@ -1,0 +1,12 @@
+
+.contenedor {
+	margin-bottom: 50px;
+}
+
+
+.footer {
+	position: fixed;
+	bottom: 0px;
+	width: 100%;
+	background:blue;
+}
